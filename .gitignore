@@ -1,0 +1,12 @@
+# Ignore environment variables
+.env
+
+# Ignore dependencies
+node_modules/
+
+# Ignore uploaded images
+uploads/
+
+# Ignore build files
+dist/
+build/
